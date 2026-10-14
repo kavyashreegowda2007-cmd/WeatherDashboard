@@ -1,4 +1,4 @@
-# Weather Observatory
+# WeatherDashboard — Weather Observatory
 
 A responsive React weather dashboard with current conditions, location search, an hourly outlook, and a seven-day forecast. Weather data is provided by the free Open-Meteo APIs; no API key is required.
 
